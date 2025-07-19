@@ -9,6 +9,13 @@ Ils ont conçu un concours visant à construire un modèle permettant de prédir
 # Objectifs 🎯
 
 ### Partie 1 : 
-réaliser une EDA et les prétraitements et former un modèle de base avec le fichier data_train.csv
+Réaliser une EDA et les prétraitements et former un modèle de base avec le fichier data_train.csv
 ### Partie 2 : 
-améliorer le score f1 de votre modèle sur votre ensemble de tests 
+Améliorer le score f1 de votre modèle sur votre ensemble de tests 
+### Partie 3 :
+Une fois satisfait du score de votre modèle, vous pouvez l'utiliser pour faire des prédictions avec le fichier data_test.csv .    
+Vous devrez enregistrer les prédictions dans un fichier .csv qui sera envoyé à Kaggle (en fait, à votre professeur/assistant 🤓).  
+### Partie 4 : 
+Prenez le temps d'analyser les paramètres de votre modèle optimal.   
+Existe-t-il des leviers d'action permettant d'améliorer le taux de conversion de la newsletter ?   
+Quelles recommandations feriez-vous à l'équipe ?  
